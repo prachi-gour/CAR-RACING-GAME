@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\car_running_game\car_running_game\bin\Debug\car_running_game.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\car_running_game\car_running_game\bin\Debug\car_running_game.exe
+c:\users\admin\documents\visual studio 2015\Projects\car_running_game\car_running_game\bin\Debug\car_running_game.pdb
+c:\users\admin\documents\visual studio 2015\Projects\car_running_game\car_running_game\obj\Debug\car_running_game.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\car_running_game\car_running_game\obj\Debug\car_running_game.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\car_running_game\car_running_game\obj\Debug\car_running_game.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\car_running_game\car_running_game\obj\Debug\car_running_game.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\car_running_game\car_running_game\obj\Debug\car_running_game.exe
+c:\users\admin\documents\visual studio 2015\Projects\car_running_game\car_running_game\obj\Debug\car_running_game.pdb
